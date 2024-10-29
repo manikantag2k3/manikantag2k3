@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manikanta Gandla</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [Realtime chat application](miniproject-017.netlify.app/)
-
-- 🌱 I’m currently learning **AWS**
+- 🔭 I’m currently working on Hotel Booking App using MERN
 
 - 📫 How to reach me **manikantagandla2@gmail.com**
 
