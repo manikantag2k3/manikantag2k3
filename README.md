@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on Hotel Booking App using MERN
-
+- 🌐 Check out my portfolio at [manikantagandla.com](https://portfolio-git-main-manikantas-projects-10b00b24.vercel.app)
 - 📫 How to reach me **manikantagandla2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
